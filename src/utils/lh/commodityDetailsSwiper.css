@@ -1,0 +1,31 @@
+.swiper-pagination-bullet-active{
+  background: #DD3333 !important;
+}
+.van-tabs__wrap{
+  z-index: 999;
+  height: 0.43rem !important;
+}
+.van-tab{
+  font-size: 0.14rem !important;
+  display: flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+}
+.van-tabs--line{
+  padding-top: 0.43rem;
+}
+.swipeableImg img{
+  width: 100%;
+}
+.van-image-preview{
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  z-index: 999999999 !important;
+  width: 100% !important;
+  height: 100% !important;
+}
+.van-image-preview__index{
+  font-size: 0.16rem !important;
+}

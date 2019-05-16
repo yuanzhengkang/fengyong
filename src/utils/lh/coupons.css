@@ -1,0 +1,22 @@
+.van-tabs__wrap{
+  height: 0.43rem !important;
+  /* position: fixed !important; */
+  /* top: 0.43rem !important; */
+}
+.van-tab__pane{
+  overflow: hidden;
+}
+.van-tab{
+  font-size: 0.14rem !important;
+  display: flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+}
+/* .van-tabs--line{
+  padding-top: 0.43rem;
+  height: 100%;
+} */
+.van-tabs__content{
+  height: 100%;
+  background: #f2f1f6;
+}
